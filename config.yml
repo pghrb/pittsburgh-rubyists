@@ -1,0 +1,12 @@
+database: postgres:///pittsburgh-rubyists
+page_title: Pittsburgh Rubyists
+poll_interval: 10
+max_days_of_updates: 15
+org: 
+  name: github.com/pghrb/pittsburgh-rubyists
+  href: https://github.com/pghrb/pittsburgh-rubyists
+opml: http://pittsburgh-rubyists.herokuapp.com/rubyist-blogs.xml
+twitters: https://github.com/pghrb/pittsburgh-rubyists/wiki/All-Rubyists
+language: ruby
+locations: 
+  - pittsburgh
